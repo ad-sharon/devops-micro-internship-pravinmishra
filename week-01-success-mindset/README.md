@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that reading a lot of books gives the illusion of learning but if you are not actively using the knowledge gained, there is no real improvement. I also believe the same principle applies to upskilling in the tech industry.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+The best way to learn something is to teach someone else.
 
 ### Evidence from my life
 
-Add your answer here...
+While I was still in university, if I wanted to fully understand a topic in DSA, I would look out for people to explain the concept to. It helped me think logically about the best ways to easily understand and pass on information on that topic and apply them better in coding projects.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Multitasking is only great practice when one of the tasks doesn't require you to be fully focused, otherwise there would be more errors and time spent than if the tasks had been handled individually.
 
 ### Evidence from my life
 
-Add your answer here...
+When reading a book and listening to music, I often notice I am more productive than if I was doing the same but listening to a podcast. The former requires more focus on reading and less on the music but the latter requires focus on both for peak productivity making it less productive.
 
 ---
 
@@ -97,37 +97,37 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 ### Rules
 
-* Write in past tense, like it already happened.
-* Don't use "likes to / wants to / hopes to."
-* Use specifics:
+- Write in past tense, like it already happened.
+- Don't use "likes to / wants to / hopes to."
+- Use specifics:
+  - built
+  - shipped
+  - led
+  - published
+  - earned
+  - relocated
+  - contributed
 
-  * built
-  * shipped
-  * led
-  * published
-  * earned
-  * relocated
-  * contributed
-* Include skills proof:
+- Include skills proof:
+  - projects
+  - portfolios
+  - GitHub
+  - blogs
+  - certifications
+  - job role
+  - leadership
+  - community contribution
 
-  * projects
-  * portfolios
-  * GitHub
-  * blogs
-  * certifications
-  * job role
-  * leadership
-  * community contribution
-* Add 1–3 images if you can (optional but powerful).
+- Add 1–3 images if you can (optional but powerful).
 
 ### Publish It Publicly On Any ONE
 
-* LinkedIn
-* Medium
-* WordPress
-* Blogspot
-* Personal blog
-* Portfolio page
+- LinkedIn
+- Medium
+- WordPress
+- Blogspot
+- Personal blog
+- Portfolio page
 
 Include this line:
 
@@ -153,13 +153,13 @@ You don't need to write the full story.
 
 Focus on the feeling:
 
-* guilt
-* fear
-* shame
-* stress
-* regret
-* numbness
-* etc.
+- guilt
+- fear
+- shame
+- stress
+- regret
+- numbness
+- etc.
 
 This is about self-awareness, not judgment.
 
@@ -173,7 +173,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes. I felt regret because I would have benefitted a lot more if I did not take a shortcut.
 
 ---
 
@@ -181,34 +181,34 @@ Add your answer here...
 
 ### Rules
 
-* Mention **Title + Author**
-* Any language allowed
-* No fiction novels
+- Mention **Title + Author**
+- Any language allowed
+- No fiction novels
 
 ### Tip
 
 Choose books that improve:
 
-* mindset
-* communication
-* productivity
-* health
-* money
-* career
-* leadership
+- mindset
+- communication
+- productivity
+- health
+- money
+- career
+- leadership
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Dopamine Nation by Anna Lembke
+2. Do It Afraid by Joyce Meyer
+3. Think Like A Programmer by V. Anton Spraul
+4. The Phoenix Project by Gene Kim
+5. The Richest Man In Babylon by George S. Clason
+6. Psycho-Cybernetics by Maxwell Maltz
+7. 30 Days to Understanding the Bible by Max Anders
+8. Good Girls Don't Get the Corner Office by Lois P. Frankel
+9. Captivating by John Eldredge
+10. Bait of Satan by John Bevere
 
 ---
 
@@ -220,33 +220,33 @@ List topics only. No need to share numbers.
 
 ### Must Include
 
-* Learning / skill
-* Output / proof
-* Health / energy
-* Time / focus
-* Money / finance (personal or business)
+- Learning / skill
+- Output / proof
+- Health / energy
+- Time / focus
+- Money / finance (personal or business)
 
 ### Example
 
-* Learning hours per week
-* Deep work sessions per week
-* Projects shipped / documented
-* Steps / workouts
-* Sleep hours
-* Spending tracker
+- Learning hours per week
+- Deep work sessions per week
+- Projects shipped / documented
+- Steps / workouts
+- Sleep hours
+- Spending tracker
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+- Add your answer here...
+- Books read monthly
+- Study hours daily
+- Screen time
+- Sleep hours
+- Money spent daily/weekly
+- Add your answer here...
+- Add your answer here...
+- Add your answer here...
+- Add your answer here...
 
 ---
 
@@ -258,13 +258,13 @@ Do a brain dump of everything in your mind into a notebook.
 
 Examples:
 
-* Bills
-* Tasks
-* Worries
-* Goals
-* Pending messages
-* Ideas
-* Responsibilities
+- Bills
+- Tasks
+- Worries
+- Goals
+- Pending messages
+- Ideas
+- Responsibilities
 
 ### Did You Do It?
 
@@ -272,7 +272,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -284,9 +284,9 @@ Create a simple plan you can realistically follow for the next 5 months.
 
 Example:
 
-* Mon–Thu: 60 min deep work
-* Sat: DMI session
-* Sun: Weekly review
+- Mon–Thu: 60 min deep work
+- Sat: DMI session
+- Sun: Weekly review
 
 #### My Weekly Routine
 
@@ -310,9 +310,9 @@ Add your answer here...
 
 Examples:
 
-* Phone rules
-* Social media rules
-* Environment setup
+- Phone rules
+- Social media rules
+- Environment setup
 
 #### My Distraction Rules
 
@@ -344,8 +344,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **ADD LINK HERE**
+- Blog / Medium : **ADD LINK HERE**
 
 ---
 
@@ -355,17 +355,16 @@ DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mi
 
 It helps learners build strong DevOps foundations with hands-on experience.
 
-
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
-- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
+- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi
+- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/
 - 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
 - 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
-- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
-- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
+- ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho
+- 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+_This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track_
