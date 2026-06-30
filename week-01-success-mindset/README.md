@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-I believe that reading a lot of books gives the illusion of learning but if you are not actively using the knowledge gained, there is no real improvement. I also believe the same principle applies to upskilling in the tech industry.
+I believe that reading a lot of books gives the illusion of learning but if you are not actively using the knowledge gained, there is no real improvement. I also believe the same principle applies to upskilling in the tech industry. Most people think just reading or merely watching the tutorials will make them more knowledgeable, and therefore prepared when the chance for practical application comes, but that is not always the case.
 
 ---
 
@@ -331,11 +331,11 @@ I am more committed to completing paid tutorials over free ones. The monetary va
 
 ### My biggest weakness/loop I noticed
 
-I have multiple personal projects but I don't optimize them to be production standard by handling real-life scenarios which fail to showcase my true intellect.
+I have multiple personal projects but I don't optimize them to be production standard by handling real-life scenarios which fail to showcase my true intellect and skillset. I plan to work on that by going through those projects to identifying broad test cases and implementing bug fixes where necessary.
 
 ### One system I will implement from this week (exact habit + time)
 
-Early rising. With just 24 hours in each day, I am commited to getting up before or at 5 everyday to ensure I maximize my time well enough and stay productive.
+Early rising. With just 24 hours in each day, I am commited to getting up before or at 5am everyday to prepare the day's todo list and ensure I maximize my time well enough and stay productive.
 
 ### LinkedIn Post
 
