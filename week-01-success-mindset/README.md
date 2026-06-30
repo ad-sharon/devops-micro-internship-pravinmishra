@@ -173,7 +173,7 @@ If Yes:
 
 ## Answer
 
-Yes. I felt regret because I would have gained a lot more knowledge and skill if I did not take a shortcut.
+Yes. I felt absolute regret for taking a shortcut on a task instead of working through it properly. In the moment, it felt efficient to speed up the process, but afterward I saw how much knowledge and skill I sacrificed by avoiding the harder path. I would have understood the underlying system far better if I'd pushed through the difficulty instead of looking for the fastest way out.
 
 ---
 
@@ -237,16 +237,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-- Add your answer here...
+- New skills/knowledge gained monthly
 - Books read monthly
-- Study hours daily
+- Study/Work hours daily
 - Screen time
 - Sleep hours
 - Money spent daily/weekly
-- Add your answer here...
-- Add your answer here...
-- Add your answer here...
-- Add your answer here...
+- Time spent on social media
+- Litres of water I drank daily
+- Projects shipped/optimized monthly
+- Money saved monthly
 
 ---
 
