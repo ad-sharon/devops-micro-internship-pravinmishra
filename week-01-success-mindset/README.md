@@ -79,11 +79,11 @@ When reading a book and listening to music, I often notice I am more productive 
 
 ### Truth
 
-Add your answer here...
+Consistency beats intensity because small daily effort overpowers occasional grand effort, almost every time.
 
 ### Evidence from my life
 
-Add your answer here...
+As a frontend developer actively trying to learning new concepts, a 30 to 60 minute session practicing every day or every other day beats trying to complete a 4-6 hour study session in just 2 days.
 
 ---
 
@@ -173,7 +173,7 @@ If Yes:
 
 ## Answer
 
-Yes. I felt regret because I would have benefitted a lot more if I did not take a shortcut.
+Yes. I felt regret because I would have gained a lot more knowledge and skill if I did not take a shortcut.
 
 ---
 
@@ -290,7 +290,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon-Fri: Work from 8am - 5pm, handle DMI work during 1-hour break or post work hours. 
+Sat: DMI Session. 
+Sun: Weekly review
 
 ---
 
@@ -298,11 +300,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon-Fri: During breaks at 12pm - 1pm or into the night from 7pm.  
+Sat: Attend sessions from 5:30am
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+At least 4 1-2 hour sessions per week (minus Saturdays)
 
 ---
 
@@ -316,7 +319,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone on focus mode and silent during teaching session. Environment is well-lit and peaceful. Books and writing materials are within reach during teaching session.
 
 ---
 
@@ -324,15 +327,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I am more committed to completing paid tutorials over free ones. The monetary value given somehow makes me more to determined to do the work.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I have multiple personal projects but I don't optimize them to be production standard by handling real-life scenarios which fail to showcase my true intellect.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Early rising. With just 24 hours in each day, I am commited to getting up before or at 5 everyday to ensure I maximize my time well enough and stay productive.
 
 ### LinkedIn Post
 
