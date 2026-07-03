@@ -135,13 +135,23 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+From Developer to DevOps Lead: Sharon’s Journey To Infrastructure
+
+Five years ago, Sharon Adigwe was only writing application code for a mid-sized cloud company in Lagos, Nigeria. Today, she leads the Site Reliability team at a multinational fintech company, a role that did not exist on her resume in 2026.
+
+The shift began quietly. While still working as a developer, she started contributing to open-source CI/CD tooling on GitHub and fixing small bugs in pipeline configuration scripts during weekends. Within a year, she had merged over 20 pull requests across three projects and earned the AWS Certified DevOps Engineer Professional certification, followed by the Certified Kubernetes Administrator (CKA) credential a few months later.
+
+In 2027, Sharon relocated to Abuja, where she joined a startup as a DevOps Engineer. There, she handled the migration of the company's monolithic deployment process to a fully containerised, GitOps-based workflow using Kubernetes and ArgoCD, cutting deployment time from 45 minutes to under 5. She documented the full process in a series of technical blog posts on her Medium account, which drew attention from engineering communities and was cited in a conference talk at KubeCon.
+
+By 2029, Sharon had built and shipped an internal observability platform that reduced incident response time by 60%. This amazing work earned her a promotion to Senior DevOps Engineer. They also began mentoring junior engineers transitioning from development into infrastructure roles through the DMI internship program by CloudAdvisory, a community they'd once been part of themselves, and published a guide on GitHub that has since been forked over 200 times.
+
+Her portfolio today reflects the breadth of that journey. Owning a GitHub profile with consistent contributions across infrastructure-as-code repositories, a blog with extensive technical knowledge on Terraform and incident management, and speaking credits at two regional DevOps meetups, she continues to push the conversation around reliability engineering forward.
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://medium.com/@omuwaste/from-developer-to-devops-lead-sharons-journey-to-infrastructure-fac7d4bb7b20
 
 ---
 
@@ -199,16 +209,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Dopamine Nation by Anna Lembke
-2. Do It Afraid by Joyce Meyer
-3. Think Like A Programmer by V. Anton Spraul
-4. The Phoenix Project by Gene Kim
-5. The Richest Man In Babylon by George S. Clason
-6. Psycho-Cybernetics by Maxwell Maltz
-7. 30 Days to Understanding the Bible by Max Anders
-8. Good Girls Don't Get the Corner Office by Lois P. Frankel
-9. Captivating by John Eldredge
-10. Bait of Satan by John Bevere
+1. Dopamine Nation - Anna Lembke
+2. Do It Afraid - Joyce Meyer
+3. Think Like A Programmer - V. Anton Spraul
+4. The Phoenix Project - Gene Kim
+5. The Richest Man In Babylon - George S. Clason
+6. Psycho-Cybernetics - Maxwell Maltz
+7. 30 Days to Understanding the Bible - Max Anders
+8. Good Girls Don't Get the Corner Office - Lois P. Frankel
+9. Captivating - John Eldredge
+10. Bait of Satan - John Bevere
 
 ---
 
@@ -284,7 +294,7 @@ Create a simple plan you can realistically follow for the next 5 months.
 
 Example:
 
-- Mon–Thu: 60 min deep work
+- Mon–Thu: 60 min deep work daily
 - Sat: DMI session
 - Sun: Weekly review
 
@@ -341,14 +351,14 @@ Early rising. With just 24 hours in each day, I am commited to getting up before
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+https://www.linkedin.com/posts/sharon-adigwe_join-the-dmi-devops-micro-internship-share-7478656149513285632-TC1O/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnEfwgB-JM6aw9pi7zIZW_86SUrQoXVmcY
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**
-- Blog / Medium : **ADD LINK HERE**
+- LinkedIn Post URL: https://www.linkedin.com/posts/sharon-adigwe_join-the-dmi-devops-micro-internship-share-7478656149513285632-TC1O/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnEfwgB-JM6aw9pi7zIZW_86SUrQoXVmcY
+- Blog / Medium : https://medium.com/@omuwaste/from-developer-to-devops-lead-sharons-journey-to-infrastructure-fac7d4bb7b20
 
 ---
 
