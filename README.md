@@ -130,10 +130,10 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Post-00](https://www.linkedin.com/posts/sharon-adigwe_devopsjourney-learninginpublic-activity-7439516059910709248-wwKj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnEfwgB-JM6aw9pi7zIZW_86SUrQoXVmcY) | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | [Post-00](https://www.linkedin.com/posts/sharon-adigwe_devopsjourney-learninginpublic-activity-7439516059910709248-wwKj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnEfwgB-JM6aw9pi7zIZW_86SUrQoXVmcY) | [Blog-00](https://medium.com/@omuwaste/documenting-my-dmi-journey-053c1b0d4934)|
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | [Post-01](https://www.linkedin.com/posts/sharon-adigwe_join-the-dmi-devops-micro-internship-share-7478656149513285632-TC1O/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnEfwgB-JM6aw9pi7zIZW_86SUrQoXVmcY) | [Blog-01](https://medium.com/@omuwaste/from-developer-to-devops-lead-sharons-journey-to-infrastructure-fac7d4bb7b20) |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
