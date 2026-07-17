@@ -23,18 +23,14 @@ Take a screenshot of your interaction showing:
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
+![Task 1 Screenshot](screenshots/week-01-screenshot-01.png)
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learnt a better way to prompt AI models like ChatGPT to explain concepts and help me learn easier is by providing proper context so it gives a response I can understand.
 
 ---
 
@@ -59,7 +55,10 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+The Internet is an interconnection of networks. ISPs are connected globally using fibre cables, so data can be transmitted around the world. When data is transmitted, Packet Switching is used. If a user sends a request from their browser to the server in Finland, this request is split into small packets, each taking different paths, and all are reassembled at the final destination.
+Data transmission over networks is governed by protocols. The Internet Protocol (IP) handles addressing and routing of data. Every node connected to the Internet has a specific IP address that tells the packets where to go and where to return. The Transmission Control Protocol (TCP) ensures the packets received are complete and in order.
+HTTP/HTTPS allow data transmission between a browser and web server. HTTPS enforces secure data transmission between EpicReads’ server and the user’s browser, so users anywhere can use the site safely.
+
 
 ---
 
@@ -89,12 +88,8 @@ EpicReads bookstore has two application versions:
 
 ## Diagram Screenshot / Photo
 
-Save your diagram image in the `screenshots` folder and update the file name below.
+![Application Architecture Diagram](screenshots/week-01-screenshot-02.jpg)
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
-
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,18 +97,23 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Tailwind
+* Next.js
+* React.js
+* Zustand
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Django
+* Node.js
+* JWT
+* bcrypt.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDB
+* MySQL
+* PostgresSQL
 
 ---
 
@@ -142,7 +142,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain Name System (DNS) is the Internet’s phonebook. It translates human-readable addresses into IP addresses that devices understand, so users do not need to memorize the IP address numbers.  
+To connect the domain, epicreads.com, to the IP 52.172.142.222:3000, an A Record should be used. It is the DNS record type used to point a specific domain name to a specific IPv4 address. Once this is done, typing epicreads.com in a browser will direct the user to that IP.
+
 
 ---
 
@@ -176,12 +178,8 @@ ls
 
 ## Screenshot
 
-Save your screenshot in the `screenshots` folder and update the file name below.
+![VS Code Setup Screenshot](screenshots/week-01-screenshot-03.png)
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -218,16 +216,38 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/sharon-adigwe_devopsjourney-learninginpublic-activity-7439516059910709248-wwKj?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnEfwgB-JM6aw9pi7zIZW_86SUrQoXVmcY
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+In a bid to reinforce and improve my skills in DevOps this year, I have decided to apply for the DMI Cohort 3 starting in May.
 
-Add your post content here...
+We were asked to complete initial tasks to test basic knowledge on internet and networking, app architecture, use of AI, DNS, and VS code setup. Here's a recap of my work.
+
+1. ChatGPT
+I crafted a precise prompt to explain "What is a protocol in networking?" requesting simplicity, and a real-life example (like a phone call), making the response easier to grasp and comprehend.
+
+2. Internet & Networking
+I explored the process behind browsing epicreads.com. User's request is fragmented into packets via packet switching and routed dynamically across global networks for efficiency. TCP/IP ensures reliable transmission (error-checking, reassembly), while HTTP/HTTPS handles content delivery between the browser and server - HTTPS layering on encryption for security.
+
+3. App Architecture
+I mapped out EpicReads' app layers: 
+Two-tier (Frontend directly to DB) which suits quick prototypes but lacks scalability. 
+Three-tier (Frontend → Backend API → Database) adds security and modularity for growth, a go-to for robust, production-ready bookstore apps. Also, created diagrams to visualize connections and identified tools to be used for each layer (e.g. Next.js for FE).
+
+4. DNS
+I described DNS as the web's phonebook, converting user-friendly domains like epicreads.com to machine-readable IP addresses. Here, creating an A record is key as it directly links the domain to the IPv4 address, bypassing raw IP access and making the site accessible when deployed.
+
+5. VS Code Setup
+I mastered VS Code's terminal for seamless DevOps workflows. This setup streamlines coding, debugging, and CLI tasks turning VS Code into an all-in-one powerhouse for efficient development.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
+
+hashtag#DevOpsJourney
+hashtag#LearningInPublic
 
 ---
 
@@ -235,19 +255,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+As someone with some developer experience, I found it easy to understand the networking concepts and VS code setup.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+I would not say it was difficult, but the part on DNS reminded me of some forgotten concepts like the DNS Resolution process.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I hope to personally apply the lessons on app architecture practically in deploying applications.
 
 ---
 
