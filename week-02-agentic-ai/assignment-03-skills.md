@@ -96,7 +96,7 @@ https://github.com/ad-sharon/Ultimate-Agentic-DevOps-with-Claude-Code
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/ad-sharon/Ultimate-Agentic-DevOps-with-Claude-Code
 ---
 
 # Completion Checklist
